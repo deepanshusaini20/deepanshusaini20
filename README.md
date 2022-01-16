@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepanshu Saini</h1>
-<h3 align="center">programmer|coder|student|learner|explorer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanshusaini20&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshusaini20" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepanshusaini20" alt="deepanshusaini20" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/deepanshu_199" target="blank"><img src="https://img.shields.io/twitter/follow/deepanshu_199?logo=twitter&style=for-the-badge" alt="deepanshu_199" /></a> </p>
+<h3 align="center">programmer | coder | student | learner | explorer</h3>
 
 - 🔭 I’m student pursuing **Bachelor of Technology(AI&ML)**
 
